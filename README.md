@@ -37,3 +37,8 @@ Each red P05 route now has a leader callout with its outlet/AP ID, total screeni
 ## Selected-run labels (current display behavior)
 
 Length labels now start hidden. Click or tap a red run to show only its total length and feet over the90-m screen; click empty space or press Escape to clear it. A shared red section opens a compact run selector instead of choosing an arbitrary endpoint. The selected callout is anchored near the clicked point so the endpoint can remain offscreen. On phones, direct route selection keeps the model visible; Part details opens the inspector when needed. The length-label toggle is now Show length when a red run is selected. Red highlighting, route geometry, IDF assignments, totals and quantities remain unchanged. This supersedes the earlier all-labels display.
+
+
+## Selected full route to IDF
+
+Selecting a red CAT6 run now emphasizes its exact fullCablePath from outlet/AP to serving IDF with a stronger red line and white edge. Other red guides become pale gray; other CAT6 objects and labels fade through display-only cloned materials. The selected endpoint and serving IDF remain full strength, and the IDF label stays readable. The route includes existing known verticals; no path or cabinet assignment changes. Blank click/tap, Escape, another object selection or hiding the red layer restores original materials. Shared segments remain selectable through the run chooser. Physical exports and all quantities retain their original data and materials. Desktop and390×844 phone-size checks passed.
