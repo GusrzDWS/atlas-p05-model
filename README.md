@@ -27,3 +27,8 @@ All 160 endpoints / 672 original services were independently checked; no new ove
 ## P05 red route review
 
 The unchanged P05 baseline now highlights 31 over-limit locations / 114 CAT6 cables in red, following their existing full paths including known verticals. Open `?review=over-limit` for the focused 3D review. The CAT6 menu includes a Show all over-limit routes in red toggle and individual route selector. Other selected routes remain orange. Air-only and floor-only hide the red overlay. AP I1/I2 are minimum lengths pending mounting heights. Shared tray stretches can also carry within-limit cables. These display guides are excluded from material counts and physical exports. All source geometry, IDF assignments and quantities are byte-for-byte unchanged; the optional length-correction drawing remains unadopted.
+
+
+## Length labels on red routes
+
+Each red P05 route now has a leader callout with its outlet/AP ID, total screening length in feet, and feet over the exact 90-m (295.2755905511811-ft) fixed-link threshold. Values are rounded to one decimal only for display; stored totals include the existing known verticals and 20-ft service slack. I1/I2 labels use ≥ because AP mounting heights remain TBD. Callouts can be clicked/tapped to inspect a run and toggled in the CAT6 menu. They remain legible during orbit/zoom and avoid overlapping labels and controls; crowded phone views hide excess labels, with a visible count and instructions to zoom/pan/select the desired run. All31 fit in the checked desktop review. Labels are display-only, included in Save image, and excluded from physical exports and quantities. Air/CAT6/proposal data hashes remain unchanged.
