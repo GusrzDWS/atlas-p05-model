@@ -32,3 +32,8 @@ The unchanged P05 baseline now highlights 31 over-limit locations / 114 CAT6 cab
 ## Length labels on red routes
 
 Each red P05 route now has a leader callout with its outlet/AP ID, total screening length in feet, and feet over the exact 90-m (295.2755905511811-ft) fixed-link threshold. Values are rounded to one decimal only for display; stored totals include the existing known verticals and 20-ft service slack. I1/I2 labels use ≥ because AP mounting heights remain TBD. Callouts can be clicked/tapped to inspect a run and toggled in the CAT6 menu. They remain legible during orbit/zoom and avoid overlapping labels and controls; crowded phone views hide excess labels, with a visible count and instructions to zoom/pan/select the desired run. All31 fit in the checked desktop review. Labels are display-only, included in Save image, and excluded from physical exports and quantities. Air/CAT6/proposal data hashes remain unchanged.
+
+
+## Selected-run labels (current display behavior)
+
+Length labels now start hidden. Click or tap a red run to show only its total length and feet over the90-m screen; click empty space or press Escape to clear it. A shared red section opens a compact run selector instead of choosing an arbitrary endpoint. The selected callout is anchored near the clicked point so the endpoint can remain offscreen. On phones, direct route selection keeps the model visible; Part details opens the inspector when needed. The length-label toggle is now Show length when a red run is selected. Red highlighting, route geometry, IDF assignments, totals and quantities remain unchanged. This supersedes the earlier all-labels display.
