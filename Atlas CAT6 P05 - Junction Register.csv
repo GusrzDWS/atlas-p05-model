@@ -1,0 +1,40 @@
+﻿Junction ID,Kind,CAD X in,CAD Y in,Legs / tray widths / routes,Count basis
+J001,horizontal-bend,329.0,-3450.0,E: 6 in; D10.1; S: 6 in; D11.1,Junction location; selected manufacturer assembly TBD
+J002,horizontal-tee,329.0,-2800.0,E: 6 in; D09.1; S: 6 in; D11.2; N: 6 in; D11.2,Junction location; selected manufacturer assembly TBD
+J003,horizontal-tee,329.0,-1200.0,S: 6 in; D01; N: 6 in; D01; E: 6 in; D03,Junction location; selected manufacturer assembly TBD
+J004,horizontal-tee,329.0,-775.0,S: 6 in; D01; N: 6 in; D01; E: 6 in; D02,Junction location; selected manufacturer assembly TBD
+J005,horizontal-bend,691.0,-2395.0,E: 12 in; T01; N: 12 in; T05,Junction location; selected manufacturer assembly TBD
+J006,horizontal-tee,691.0,-1200.0,S: 12 in; T05; N: 12 in; T05; W: 6 in; D03,Junction location; selected manufacturer assembly TBD
+J007,horizontal-tee,691.0,-775.0,S: 12 in; T05; W: 6 in; D02; E: 6 in; D02,Junction location; selected manufacturer assembly TBD
+J008,horizontal-tee,2085.0,-3450.0,N: 6 in; D04; W: 6 in; D10.1; E: 6 in; D10.1,Junction location; selected manufacturer assembly TBD
+J009,horizontal-tee,2085.0,-2800.0,S: 6 in; D04; N: 6 in; D04; W: 6 in; D09.1,Junction location; selected manufacturer assembly TBD
+J010,horizontal-cross,2085.0,-2395.0,W: 12 in; T01; E: 12 in; T01; S: 6 in; D04; N: 6 in; N01,Junction location; selected manufacturer assembly TBD
+J011,horizontal-tee,4107.0,-3450.0,N: 6 in; D05; W: 6 in; D10.2; E: 6 in; D10.2,Junction location; selected manufacturer assembly TBD
+J012,horizontal-cross,4107.0,-2800.0,S: 6 in; D05; N: 6 in; D05; W: 6 in; D09.2; E: 6 in; D09.2,Junction location; selected manufacturer assembly TBD
+J013,horizontal-tee,4107.0,-2395.0,W: 12 in; T01; E: 12 in; T01; S: 6 in; D05,Junction location; selected manufacturer assembly TBD
+J014,horizontal-bend,4653.0,-940.0,E: 12 in; T03; N: 12 in; T04,Junction location; selected manufacturer assembly TBD
+J015,horizontal-tee,4741.0,-2395.0,W: 12 in; T01; E: 12 in; T01; N: 12 in; T02,Junction location; selected manufacturer assembly TBD
+J016,horizontal-tee,4741.0,-1950.0,S: 12 in; T02; N: 12 in; T02; E: 6 in; D13,Junction location; selected manufacturer assembly TBD
+J017,horizontal-tee,4741.0,-1398.0,S: 12 in; T02; N: 12 in; T02; E: 6 in; N08,Junction location; selected manufacturer assembly TBD
+J018,horizontal-tee,4741.0,-940.0,S: 12 in; T02; W: 12 in; T03; E: 6 in; N09,Junction location; selected manufacturer assembly TBD
+J019,horizontal-tee,5902.0,-1398.0,W: 6 in; D14.1; E: 6 in; D14.1; N: 6 in; D16,Junction location; selected manufacturer assembly TBD
+J020,horizontal-tee,5902.0,-940.0,W: 6 in; D15.1; E: 6 in; N10; S: 6 in; D16,Junction location; selected manufacturer assembly TBD
+J021,horizontal-tee,6147.0,-3450.0,N: 6 in; D06; W: 6 in; N05; E: 6 in; D10.3,Junction location; selected manufacturer assembly TBD
+J022,horizontal-cross,6147.0,-2800.0,S: 6 in; D06; N: 6 in; D06; W: 6 in; N03; E: 6 in; D09.3,Junction location; selected manufacturer assembly TBD
+J023,horizontal-cross,6147.0,-2395.0,W: 12 in; T01; E: 12 in; T01; S: 6 in; D06; N: 6 in; D06,Junction location; selected manufacturer assembly TBD
+J024,horizontal-cross,6147.0,-1950.0,S: 6 in; D06; N: 6 in; D06; W: 6 in; D13; E: 6 in; D13,Junction location; selected manufacturer assembly TBD
+J025,horizontal-cross,6147.0,-1398.0,S: 6 in; D06; N: 6 in; D06; W: 6 in; D14.1; E: 6 in; D14.1,Junction location; selected manufacturer assembly TBD
+J026,horizontal-tee,6147.0,-940.0,S: 6 in; D06; W: 6 in; D15.2; E: 6 in; D15.2,Junction location; selected manufacturer assembly TBD
+J027,horizontal-tee,6826.0,-1398.0,W: 6 in; D14.1; E: 6 in; D14.1; N: 6 in; D17,Junction location; selected manufacturer assembly TBD
+J028,horizontal-tee,7998.0,-1398.0,W: 6 in; D14.2; E: 6 in; D14.2; N: 6 in; D18,Junction location; selected manufacturer assembly TBD
+J029,horizontal-tee,7998.0,-940.0,W: 6 in; D15.3; E: 6 in; N12; S: 6 in; D18,Junction location; selected manufacturer assembly TBD
+J030,horizontal-tee,8179.0,-3450.0,N: 6 in; D07; W: 6 in; D10.4; E: 6 in; N07,Junction location; selected manufacturer assembly TBD
+J031,horizontal-cross,8179.0,-2800.0,S: 6 in; D07; N: 6 in; D07; W: 6 in; D09.4; E: 6 in; D09.4,Junction location; selected manufacturer assembly TBD
+J032,horizontal-cross,8179.0,-2395.0,W: 12 in; T01; E: 12 in; T01; S: 6 in; D07; N: 6 in; D07,Junction location; selected manufacturer assembly TBD
+J033,horizontal-cross,8179.0,-1950.0,S: 6 in; D07; N: 6 in; D07; W: 6 in; D13; E: 6 in; D13,Junction location; selected manufacturer assembly TBD
+J034,horizontal-cross,8179.0,-1398.0,S: 6 in; D07; N: 6 in; D07; W: 6 in; D14.2; E: 6 in; D14.2,Junction location; selected manufacturer assembly TBD
+J035,horizontal-bend,8179.0,-940.0,S: 6 in; D07; W: 6 in; N12,Junction location; selected manufacturer assembly TBD
+J036,horizontal-bend,10160.0,-3450.0,N: 6 in; D08; W: 6 in; D10.5,Junction location; selected manufacturer assembly TBD
+J037,horizontal-tee,10160.0,-2800.0,S: 6 in; D08; N: 6 in; D08; W: 6 in; D09.5,Junction location; selected manufacturer assembly TBD
+J038,horizontal-tee,10160.0,-2395.0,W: 12 in; T01; S: 6 in; D08; N: 6 in; D08,Junction location; selected manufacturer assembly TBD
+J039,horizontal-tee,10160.0,-1950.0,S: 6 in; D08; N: 6 in; D08; W: 6 in; D13,Junction location; selected manufacturer assembly TBD
